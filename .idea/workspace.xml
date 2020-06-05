@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="changed host centos_remote_a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/motd.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +75,23 @@
       <updated>1591263305736</updated>
       <workItem from="1591263307146" duration="9849000" />
       <workItem from="1591279173212" duration="2065000" />
-      <workItem from="1591341167604" duration="5828000" />
+      <workItem from="1591341167604" duration="6580000" />
     </task>
+    <task id="LOCAL-00001" summary="IP added">
+      <created>1591358108100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591358108100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed host centos_remote_a">
+      <created>1591358217806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591358217806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +114,9 @@
     <MESSAGE value="modified alpine container using port 22" />
     <MESSAGE value="Added propagate ssh using delagate_to" />
     <MESSAGE value="Added propagate ssh using delegate_to" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added propagate ssh using delegate_to" />
+    <MESSAGE value="IP added" />
+    <MESSAGE value="changed host centos_remote_a" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed host centos_remote_a" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2118" y="0" key="#Deployment" timestamp="1587820575972">
@@ -101,9 +136,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591279061644" />
-    <state x="2403" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587826633871">
-      <screen x="1920" y="0" width="1680" height="1010" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591358219439">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2403" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1587826633871" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591358219439" />
   </component>
 </project>

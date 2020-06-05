@@ -3,7 +3,7 @@
   hosts: centos_remote_a
   become: true
   vars:
-      text_message: " Ansible @ SIGI"
+      text_message: " Welcome AFIP "
   tasks:
     - name: copy template file
       template:
